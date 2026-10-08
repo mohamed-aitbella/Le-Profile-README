@@ -43,7 +43,7 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
-| 🛑 **[Audit de Sécurité Active Directory](https://github.com/VOTRE-USERNAME/Active-Directory-Security-Audit)** | Conduite d'un audit de sécurité sur un environnement d'entreprise simulé. Identification de vulnérabilités critiques et proposition de remédiation (GPO, VLANs, MFA) pour protéger les données métiers. | `Metasploit`, `Nmap`, `GPO`, `Windows Server` |
+| 🛑 **[Audit de Sécurité Active Directory](https://github.com/SICROMONOCO/Project-ASRdEt)** | Conduite d'un audit de sécurité sur un environnement d'entreprise simulé. Identification de vulnérabilités critiques et proposition de remédiation (GPO, VLANs, MFA) pour protéger les données métiers. | `Metasploit`, `Nmap`, `GPO`, `Windows Server` |
 | 🔍 **[Automated Security Scanner](https://github.com/VOTRE-USERNAME/Automated-Security-Scanner)** | Script DevSecOps développé pour automatiser la reconnaissance réseau et générer des rapports de vulnérabilités, optimisant ainsi le temps de l'équipe IT. | `Python`, `Bash`, `Nmap API` |
 | 🛡️ **[SIEM Detection Rules](https://github.com/VOTRE-USERNAME/Wazuh-SIEM-Detection-Rules)** | Déploiement d'un SIEM et configuration de règles de détection personnalisées pour alerter en temps réel contre les attaques par force brute et les mouvements latéraux. | `Wazuh SIEM`, `XML/YAML`, `Linux` |
 
